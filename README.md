@@ -1,6 +1,6 @@
 # Plant Cat Cocos 2D
 
-这是一个微信小程序项目。小程序源码位于 `miniprogram/`，云函数位于 `cloudfunctions/`。
+这是一个微信小程序项目。小程序源码位于 `miniprogram/`，云函数位于 `cloudfunctions/`。 
 
 ## 用微信开发者工具打开
 
